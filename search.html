@@ -48,12 +48,18 @@ header-img: "img/search-bg.jpg"
                     // <li><a href="{url}" title="{desc}">{title}</a></li>
                     searchResultTemplate: `
                     <div class="post-preview">
+                        <time datetime="{{ date | date:"%Y-%m-%d" }}">{{ date | date:"%Y-%m-%d" }}</time>
                         <a href="{url}" title="{tags}">
                             <h2 class="post-title">{title}</h2>
+                            <h2 class="post-subtitle">{subtitle}</h2>
                         </a>
                     </div>
                             `,
-                    noResultsText: '没有搜索到文章',
+                    noResultsText: `
+                    <div class="post-preview">
+                        <span>没有搜索到文章</span>
+                    </div>
+                    `,
                     limit: 20,
                     fuzzy: false
                 })
