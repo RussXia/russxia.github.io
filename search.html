@@ -46,7 +46,7 @@ header-img: "img/search-bg.jpg"
                     searchInput: document.getElementById('search-input'),
                     resultsContainer: document.getElementById('results-container'),
                     json: '/search.json',
-                    searchResultTemplate: '<div class="post-preview"><a href="url"> <h2 class="post-title">{{title }}</h2>{% if subtitle %}<h3 class="post-subtitle">{{ subtitle }}</h3>{% endif %}</a></div>',
+                    searchResultTemplate: '<div class="post-preview"><a href="{url}"> <h2 class="post-title">{title }</h2>{% if subtitle %}<h3 class="post-subtitle">{ subtitle }</h3>{% endif %}</a></div>',
                     noResultsText: '没有搜索到文章',
                     limit: 20,
                     fuzzy: false
