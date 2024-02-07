@@ -51,7 +51,8 @@ header-img: "img/search-bg.jpg"
                         <time datetime="{{ date | date:"%Y-%m-%d" }}">{{ date | date:"%Y-%m-%d" }}</time>
                         <a href="{url}" title="{tags}">
                             <h2 class="post-title">{title}</h2>
-                            {% if subtitle ！= "" %}
+                            <h3 class="post-subtitle">{subtitle}</h3>
+                            {% if {subtitle} ！= "" %}
                                 <h3 class="post-subtitle">{subtitle}</h3>
                             {% endif %}
                         </a>
@@ -60,7 +61,7 @@ header-img: "img/search-bg.jpg"
                     noResultsText: `
                     <div class="post-preview">
                         <a>
-                            <h2 class="post-title text-muted">没有搜索到文章</h2>
+                            <h2 class="post-title ">没有搜索到文章</h2>
                         </a>
                     </div>
                     `,
