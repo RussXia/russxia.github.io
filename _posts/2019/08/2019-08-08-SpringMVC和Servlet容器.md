@@ -2,7 +2,7 @@
 layout: blog
 title: "SpringMVC和Servlet"
 catalog: true
-tag: [Java,Spring,2019]
+tags: [Java,Spring,2019]
 ---
 # SpringMVC和Servlet
 HTTP服务器将请求发到Servlet容器，Servlet容器会将请求转发到具体的Servlet，如果此Servlet尚未创建，则加载并实例化这个Servlet(init方法)，然后调用这个Servelt的`service`方法，真正处理请求。

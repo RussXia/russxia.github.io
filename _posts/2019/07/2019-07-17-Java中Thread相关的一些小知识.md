@@ -2,7 +2,7 @@
 layout: blog
 title: "Java中Thread相关的一些小知识"
 catalog: true
-tag: [Java,2019]
+tags: [Java,2019]
 ---
 # Java中Thread相关的一些小知识
 

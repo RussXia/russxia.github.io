@@ -2,7 +2,7 @@
 layout: blog
 title: "Elasticsearch中遇到的问题汇总"
 catalog: true
-tag: [Elasticsearch,踩坑,2019]
+tags: [Elasticsearch,踩坑,2019]
 ---
 
 # 一、聚合操作时，报Fielddata is disabled on text fields by default.

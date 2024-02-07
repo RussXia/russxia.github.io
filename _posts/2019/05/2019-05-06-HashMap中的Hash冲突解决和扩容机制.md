@@ -2,7 +2,7 @@
 layout: blog
 title: "HashMap中的Hash冲突解决和扩容机制"
 catalog: true
-tag: [Java,2019]
+tags: [Java,2019]
 ---
 # 关于HashMap
 HashMap根据key的hash值来存储数据，HashMap最多只允许一个key为null的记录。HashMap是线程不安全的。HashMap的数据结构是:数组+链表+红黑树（JDK1.8增加了红黑树部分）。

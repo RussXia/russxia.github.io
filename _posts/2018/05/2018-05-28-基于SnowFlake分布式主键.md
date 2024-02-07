@@ -2,7 +2,7 @@
 layout: blog
 title: "基于SnowFlake的分布式主键生成器"
 catalog: true
-tag: [Java,算法,2018]
+tags: [Java,算法,2018]
 ---
 # 基于SnowFlake的分布式主键生成器
 

@@ -2,7 +2,7 @@
 layout: blog
 title: "Elasticsearch中的并发控制"
 catalog: true
-tag: [Elasticsearch,2019]
+tags: [Elasticsearch,2019]
 ---
 # 数据库领域常见的并发控制
 + 悲观并发控制<br>

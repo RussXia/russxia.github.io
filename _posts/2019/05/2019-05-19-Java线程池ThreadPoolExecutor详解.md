@@ -2,7 +2,7 @@
 layout: blog
 title: "Java线程池ThreadPoolExecutor详解"
 catalog: true
-tag: [Java,2019]
+tags: [Java,2019]
 ---
 # 为什么要使用线程池
 线程是系统资源，多线程技术主要是为了合理利用cpu的并行处理能力(cpu的快速切换以及多核心)，但是创建和销毁线程的开销还是比较耗费时间的，如果系统频繁地创建和销毁线程，那么会造成资源的大量浪费(线程也是一种计算机资源)。

@@ -2,7 +2,7 @@
 layout: blog
 title: "Java集成Kafka简单步骤"
 catalog: true
-tag: [Java,Kafka,2018]
+tags: [Java,Kafka,2018]
 ---
 # Java集成Kafka简单步骤
 

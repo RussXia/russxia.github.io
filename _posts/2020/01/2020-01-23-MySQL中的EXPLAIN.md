@@ -2,7 +2,7 @@
 layout: blog
 title: "MySQL中的EXPLAIN"
 catalog: true
-tag: [MySQL,2019]
+tags: [MySQL,2019]
 ---
 
 # MySQL中的EXPLAIN

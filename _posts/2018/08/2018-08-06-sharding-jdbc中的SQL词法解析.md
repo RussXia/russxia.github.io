@@ -2,7 +2,7 @@
 layout: blog
 title: "Sharding-JDBC Lexer源码分析"
 catalog: true
-tag: [Java,2018]
+tags: [Java,2018]
 ---
 # Sharding-JDBC Lexer源码分析
 

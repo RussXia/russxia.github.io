@@ -2,7 +2,7 @@
 layout: blog
 title: "关于#与$的区别，mybatis中的sql预编译"
 catalog: true
-tag: [Java,2018]
+tags: [Java,2018]
 ---
 # 关于#与$的区别，mybatis中的sql预编译
 

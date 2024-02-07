@@ -2,7 +2,7 @@
 layout: blog
 title: "Java中的invokedynamic和lambda表达式"
 catalog: true
-tag: [Java,JVM,2019]
+tags: [Java,JVM,2019]
 ---
 # Java中的invokedynamic和lambda表达式
 

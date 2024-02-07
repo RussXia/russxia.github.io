@@ -2,7 +2,7 @@
 layout: blog
 title: "Spring容器中的init和destroy方法"
 catalog: true
-tag: [Java,Spring,2019]
+tags: [Java,Spring,2019]
 ---
 # Spring容器中的init和destroy方法
 Spring Bean的生命周期大致如下:

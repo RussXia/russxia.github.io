@@ -2,7 +2,7 @@
 layout: blog
 title: "Elasticsearch中的document"
 catalog: true
-tag: [Elasticsearch,2019]
+tags: [Elasticsearch,2019]
 ---
 
 # Reading and Writing documents

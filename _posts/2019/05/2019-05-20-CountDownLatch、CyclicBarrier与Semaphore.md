@@ -2,7 +2,7 @@
 layout: blog
 title: "CountDownLatch、CyclicBarrier与Semaphore"
 catalog: true
-tag: [Java,2019]
+tags: [Java,2019]
 ---
 # CountDownLatch
 CountDownLatch可以实现多线程之间的计数功能，并实现了阻塞功能。其内部通过实现了AQS的`java.util.concurrent.CountDownLatch.Sync`保证线程之间同步修改count值。

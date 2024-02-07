@@ -2,7 +2,7 @@
 layout: blog
 title: "MySQL与B-Tree和B+Tree"
 catalog: true
-tag: [MySQL,数据结构,算法,2019]
+tags: [MySQL,数据结构,算法,2019]
 ---
 
 # MySQL与B-Tree和B+Tree

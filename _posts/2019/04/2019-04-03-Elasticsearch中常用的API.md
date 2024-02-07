@@ -2,7 +2,7 @@
 layout: blog
 title: "Elasticsearch中常用的API"
 catalog: true
-tag: [Elasticsearch,2019]
+tags: [Elasticsearch,2019]
 ---
 # 查看集群健康
 查看集群信息，检查集群健康,

@@ -2,7 +2,7 @@
 layout: blog
 title: "由MateSpace空间不足引发的FullGC"
 catalog: true
-tag: [JVM,2020,踩坑,Java]
+tags: [JVM,2020,踩坑,Java]
 ---
 
 # 问题背景

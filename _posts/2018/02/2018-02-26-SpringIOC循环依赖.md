@@ -2,7 +2,7 @@
 layout: blog
 title: "Spring IOC 循环依赖"
 catalog: true
-tag: [Java,Spring,2018]
+tags: [Java,Spring,2018]
 ---
 # Spring IOC 循环依赖
 

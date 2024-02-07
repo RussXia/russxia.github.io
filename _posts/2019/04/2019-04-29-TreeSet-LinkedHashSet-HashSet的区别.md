@@ -2,7 +2,7 @@
 layout: blog
 title: "TreeSet、HashSet、LinkedHashSet的区别"
 catalog: true
-tag: [Java,2019]
+tags: [Java,2019]
 ---
 # Set接口
 TreeSet、HashSet、LinkedHashSet都实现了Set接口。Set接口和List接口一样继承自Collection接口。

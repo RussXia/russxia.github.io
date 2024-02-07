@@ -2,7 +2,7 @@
 layout: blog
 title: "Elasticsearch的基本概念和安装"
 catalog: true
-tag: [Elasticsearch,2019]
+tags: [Elasticsearch,2019]
 ---
 # 基本概念
 官方文档:

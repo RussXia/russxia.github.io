@@ -2,7 +2,7 @@
 layout: blog
 title: "Kafka+Flume+HDFS的实时采集"
 catalog: true
-tag: [大数据,Kafka,2019]
+tags: [大数据,Kafka,2019]
 ---
 # 准备
 ![kafka-flume-hdfs流程](https://raw.githubusercontent.com/RussXia/RussXia.github.io/master/_pic/kafka_flume_hdfs.png)

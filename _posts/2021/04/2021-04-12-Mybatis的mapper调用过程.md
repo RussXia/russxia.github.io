@@ -2,7 +2,7 @@
 layout: blog
 title: "Mybatis的mapper调用过程"
 catalog: true
-tag: [Java,2021]
+tags: [Java,2021]
 ---
 # Mybatis的初始化和Mapper调用过程
 1. 加载全局配置xml

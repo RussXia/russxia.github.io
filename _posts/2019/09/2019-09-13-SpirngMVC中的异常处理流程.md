@@ -2,7 +2,7 @@
 layout: blog
 title: "SpringMVC中的异常处理流程"
 catalog: true
-tag: [Java,Spring,2019]
+tags: [Java,Spring,2019]
 ---
 # SpringMVC中的异常处理流程
 本文搭建的项目基于spring-boot版本 `1.5.2.RELEASE` ,spring版本是 `4.3.7.RELEASE` 。源码分析也是基于 `4.3.7.RELEASE` 的spring版本。

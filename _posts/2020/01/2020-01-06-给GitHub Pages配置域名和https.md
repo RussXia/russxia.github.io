@@ -2,7 +2,7 @@
 layout: blog
 title: "给GitHub Pages配置域名和https"
 catalog: true
-tag: [杂项,2019,HTTP]
+tags: [杂项,2019,HTTP]
 ---
 
 # 给GitHub Pages配置域名和https
