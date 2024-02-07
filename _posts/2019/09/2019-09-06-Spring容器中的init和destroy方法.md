@@ -1,7 +1,9 @@
 ---
 layout: blog
-title: "Spring容器中的init和destroy方法"
+title: "Spring容器中的构造和销毁Bean的方法"
 catalog: true
+subtitle: init和destroy方法、@PostConstruct和@PreDestroy注解、InitializingBean/DisposableBean接口
+date: 2019-09-06
 tags: [Java,Spring,2019]
 ---
 # Spring容器中的init和destroy方法
