@@ -42,11 +42,9 @@ public class LinkedHashSet<E>
 ## HashMap
 HashMap是基于hash table实现的map，允许空值空键。HashMap除了允许为空以及非同步，其他和HashTable完全一致。HashMap是不保证顺序不变的。
 在jdk1.8中，HashMap的数据结构是数组(hash划分)+链表+二叉树。当链表的长度大于等于8时，链表转换成红黑树。
-![](https://raw.githubusercontent.com/RussXia/RussXia.github.io/master/_pic/hashmap_struct.jpg)
 
 ## LinkedHashMap
 LinkedHashMap继承自HashMap，在HashMap的基础上维护了一条双向链表，解决了HashMap不能保持插入顺序的问题。
-![](https://raw.githubusercontent.com/RussXia/RussXia.github.io/master/_pic/linkedhashmap_struct.jpg)
 
 ## TreeMap
 TreeMap基于红黑树的数据结构实现。红黑树是一颗二叉树，同时红黑树更是一颗自平衡的排序二叉树。
