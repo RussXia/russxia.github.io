@@ -30,7 +30,7 @@ header-img: "img/search-bg.jpg"
                     <span class="input-group-text" id="basic-addon1">搜索博客</span>
                 </div>
                 <input type="text" class="form-control" id="search-input" placeholder="输入标题/相关内容/日期/Tags..."
-                    aria-describedby="basic-addon1">
+                    aria-describedby="basic-addon1" width="fit-content">
             </div>
             <!-- HTML elements for search -->
             <!-- <input type="text" id="search-input" placeholder="搜索博客 - 输入标题/相关内容/日期/Tags.." /> -->
@@ -47,7 +47,7 @@ header-img: "img/search-bg.jpg"
                     searchInput: document.getElementById('search-input'),
                     resultsContainer: document.getElementById('results-container'),
                     json: '/search.json',
-                    searchResultTemplate: '<div class="post-preview"><a href="{url}" title="{tag}"> <h2 class="post-title">{title}</h2></a></div>',
+                    searchResultTemplate: '<div class="post-preview"><a href="{url}" title="{tags}"> <h2 class="post-title">{title}</h2></a></div>',
                     noResultsText: '没有搜索到文章',
                     limit: 20,
                     fuzzy: false
