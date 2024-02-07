@@ -2,6 +2,8 @@
 layout: blog
 title: "MySQL与B-Tree和B+Tree"
 catalog: true
+subtitle: 二叉树和平衡二叉树，B-Tree和B+Tree
+date: 2020-01-02
 tags: [MySQL,数据结构,算法,2019]
 ---
 

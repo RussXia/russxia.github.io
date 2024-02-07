@@ -2,6 +2,8 @@
 layout: blog
 title: "Java8中的并行流ParallelStream"
 catalog: true
+subtitle: ParallelStream概要、工作原理及其使用时需要注意的问题
+date: 2021-01-29
 tags: [Java,2021]
 ---
 # Java8中的并行流ParallelStream
@@ -92,7 +94,7 @@ Fork/Join中最核心的就是fork()方法和join()方法。
 + join()方法当任务结束时，返回结果；如果需要的任务尚未完成，阻塞当前线程等待子任务的执行结果。
 
 
-## ParallelStream有什么问题
+## ParallelStream使用时需要注意的问题
 
 通过前面的介绍，我们知道了，ParallelStream是用`ForkJoinPool.commonPool`进行多线程计算的。那么这里面存在什么问题呢？
 
