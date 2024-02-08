@@ -2,6 +2,8 @@
 layout: blog
 title: "Elasticsearch中的并发控制"
 catalog: true
+subtitle: 常见的并发控制方法:乐观/悲观并发控制，Elasticsearch中的乐观并发控制
+date: 2019-04-09
 tags: [Elasticsearch,2019]
 ---
 # 数据库领域常见的并发控制

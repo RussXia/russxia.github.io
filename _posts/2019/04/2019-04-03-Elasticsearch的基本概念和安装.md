@@ -2,6 +2,8 @@
 layout: blog
 title: "Elasticsearch的基本概念和安装"
 catalog: true
+subtitle: Elasticsearch的特点、集群和安装
+date: 2019-04-03
 tags: [Elasticsearch,2019]
 ---
 # 基本概念

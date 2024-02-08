@@ -2,6 +2,8 @@
 layout: blog
 title: "Elasticsearch中遇到的问题汇总"
 catalog: true
+subtitle: Elasticsearch中遇到的问题汇总
+date: 2019-04-13
 tags: [Elasticsearch,踩坑,2019]
 ---
 
