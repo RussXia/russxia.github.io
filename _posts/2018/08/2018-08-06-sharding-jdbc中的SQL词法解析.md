@@ -2,6 +2,8 @@
 layout: blog
 title: "Sharding-JDBC Lexer源码分析"
 catalog: true
+subtitle: Lexer的源码分析，Lexer时怎么做词法分析的
+date: 2018-08-06
 tags: [Java,2018]
 ---
 # Sharding-JDBC Lexer源码分析
