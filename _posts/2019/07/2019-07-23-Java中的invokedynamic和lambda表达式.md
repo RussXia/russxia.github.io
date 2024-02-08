@@ -2,6 +2,8 @@
 layout: blog
 title: "Java中的invokedynamic和lambda表达式"
 catalog: true
+subtitle: lambda表达式和invokedynamic字节码方法的关系
+date: 2019-07-23
 tags: [Java,JVM,2019]
 ---
 # Java中的invokedynamic和lambda表达式

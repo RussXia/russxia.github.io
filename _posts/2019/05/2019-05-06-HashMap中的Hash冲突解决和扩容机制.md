@@ -2,6 +2,8 @@
 layout: blog
 title: "HashMap中的Hash冲突解决和扩容机制"
 catalog: true
+subtitle: 解决Hash冲突的常见实现方法，HashMap的解决冲突和扩容机制
+date: 2019-05-06
 tags: [Java,2019]
 ---
 # 关于HashMap
