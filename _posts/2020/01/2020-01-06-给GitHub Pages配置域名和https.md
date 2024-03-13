@@ -2,6 +2,7 @@
 layout: blog
 title: "给GitHub Pages配置域名和https"
 catalog: true
+header-img: img/post-bg-1.jpg
 subtitle: GitHub Pages配置https，以及自定义域名配置
 date: 2020-01-06
 tags: [杂项,2019,HTTP]

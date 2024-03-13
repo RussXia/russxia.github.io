@@ -2,6 +2,7 @@
 layout: blog
 title: "Java8中的并行流ParallelStream"
 catalog: true
+header-img: img/post-bg-2.jpg
 subtitle: ParallelStream概要、工作原理及其使用时需要注意的问题
 date: 2021-01-29
 tags: [Java,2021]

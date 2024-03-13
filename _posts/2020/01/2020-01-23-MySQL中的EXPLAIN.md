@@ -2,6 +2,7 @@
 layout: blog
 title: "MySQL中的EXPLAIN"
 catalog: true
+header-img: img/post-bg-1.jpg
 subtitle: EXPLAIN命令作用及其参数解释
 date: 2020-01-23
 tags: [MySQL,2019]

@@ -2,6 +2,7 @@
 layout: blog
 title: "由MateSpace空间不足引发的FullGC"
 catalog: true
+header-img: img/post-bg-2.jpg
 subtitle: 线上MateSpace引发的FullGC问题排查记录
 date: 2020-03-06
 tags: [JVM,2020,踩坑,Java]

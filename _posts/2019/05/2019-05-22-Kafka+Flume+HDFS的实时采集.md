@@ -2,6 +2,7 @@
 layout: blog
 title: "Kafka+Flume+HDFS的实时采集"
 catalog: true
+header-img: img/post-bg-2.jpg
 subtitle: Kafka+Flume+HDFS的实时采集，组件配置
 date: 2019-05-22
 tags: [大数据,Kafka,2019]

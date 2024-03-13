@@ -2,6 +2,7 @@
 layout: blog
 title: "Java中Thread相关的一些小知识"
 catalog: true
+header-img: img/post-bg-2.jpg
 subtitle: Java中Thread相关的一些小知识
 date: 2019-07-17
 tags: [Java,2019]

@@ -2,6 +2,7 @@
 layout: blog
 title: "ConcurrentHashMap的高并发和线程安全"
 catalog: true
+header-img: img/post-bg-1.jpg
 subtitle: ConcurrentHashMap的数据结构和线程安全实现
 date: 2019-05-09
 tags: [Java,2019]

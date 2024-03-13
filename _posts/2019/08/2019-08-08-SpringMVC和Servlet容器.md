@@ -2,6 +2,7 @@
 layout: blog
 title: "SpringMVC和Servlet"
 catalog: true
+header-img: img/post-bg-2.jpg
 subtitle: SpringMVC和Servlet的关系，ServletContext,Spring容器,SpringMVC容器的区别
 date: 2019-08-08
 tags: [Java,Spring,2019]
