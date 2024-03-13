@@ -2,6 +2,7 @@
 layout: blog
 title: "基于SnowFlake的分布式主键生成器"
 catalog: true
+header-img: img/post-bg-1.jpg
 subtitle: SnowFlake的算法分析和实现
 date: 2018-05-28
 tags: [Java,算法,2018]

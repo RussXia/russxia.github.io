@@ -2,6 +2,7 @@
 layout: blog
 title: "Java集成Kafka简单步骤"
 catalog: true
+header-img: img/post-bg-1.jpg
 subtitle: Kafka的配置与启动，Java接入Kafka的简单demo
 date: 2018-03-23
 tags: [Java,Kafka,2018]

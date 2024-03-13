@@ -2,6 +2,7 @@
 layout: blog
 title: "Elasticsearch中的document"
 catalog: true
+header-img: img/post-bg-1.jpg
 subtitle: document的读写策略
 date: 2019-04-04
 tags: [Elasticsearch,2019]

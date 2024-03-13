@@ -2,6 +2,7 @@
 layout: blog
 title: "Spring IOC 循环依赖"
 catalog: true
+header-img: img/post-bg-1.jpg
 subtitle: 什么是循环依赖以及Spring如何检测循环依赖的
 date: 2018-02-26
 tags: [Java,Spring,2018]

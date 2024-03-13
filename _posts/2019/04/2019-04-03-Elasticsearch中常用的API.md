@@ -2,6 +2,7 @@
 layout: blog
 title: "Elasticsearch中常用的API"
 catalog: true
+header-img: img/post-bg-2.jpg
 subtitle: Elasticsearch中常用的API
 date: 2019-04-03
 tags: [Elasticsearch,2019]
