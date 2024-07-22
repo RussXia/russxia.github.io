@@ -5,9 +5,8 @@ catalog: true
 header-img: img/post-bg-2.jpg
 subtitle: JDK9中String改为byte数组存储有何优点
 date: 2024-07-22
-tags: [2024,,Java]
+tags: [2024,Java]
 ---
-
 ## JDK8中String的字符编码
 JDK 8 中，String以`char[]`形式存储，字符串始终在内存中使用UTF-16编码，每个字符占用两个字节。
 
