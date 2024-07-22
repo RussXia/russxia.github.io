@@ -1,9 +1,9 @@
 ---
 layout: blog
-title: "JDK9中String的字符编码"
+title: "JDK9中String为何改为byte数组存储"
 catalog: true
 header-img: img/post-bg-2.jpg
-subtitle: JDK8和JDK9中字符编码的区别
+subtitle: JDK9中String改为byte数组存储有何优点
 date: 2024-07-22
 tags: [2024,,Java]
 ---
