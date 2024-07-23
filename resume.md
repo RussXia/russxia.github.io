@@ -2,14 +2,18 @@
 - 夏正月/本科/男/1994 
 - 湘潭大学/2016届/8年工作经验
 - 求职意向：Java开发工程师
+- 个人博客：[https://russxia.github.io/](https://russxia.github.io/)
 - 邮箱：xzy199400@foxmail.com
 - 手机：13776598417
 ---
 ## 技能
 + 熟悉JVM内存模型，类加载机制，常见的GC算法
-+ 熟悉Spring、Mybatis、Spring Boot、Spring Cloud、Dubbo等技术栈
-+ 熟悉MySQL、Redis等主流数据库
++ 熟悉Spring、Mybatis、SpringBoot、SpringCloud、Dubbo等主流技术栈
++ 熟悉MySQL、Redis等主流数据库，了解Hbase、ES、TiDB等数据库
++ 了解Linux、Docker相关知识，熟悉Docker的相关基础命令
 + 了解基础的音视频相关知识，了解FFmpeg的基本用法和相关命令
++ 熟悉异步编程，了解响应式编程
++ 有高并发业务场景经验，有高并发场景下调优经历
 ---
 ## 工作经历
 ### 上海喜马拉雅（2021.5 - 至今）
