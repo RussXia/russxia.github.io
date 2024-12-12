@@ -15,7 +15,7 @@ PostgreSQL的PostGis模块，提供了`SFSQL`(Simple Features for SQL规范从 O
 下面是关于PostGis的简单介绍。
 [https://postgis.net/workshops/zh_Hans/postgis-intro/introduction.html](https://postgis.net/workshops/zh_Hans/postgis-intro/introduction.html)
 
-本项目相关demo，[github项目地址]()
+本项目相关demo，[github项目地址](https://github.com/RussXia/postgis-java)
 
 ## 安装PostGis并初始化数据
 
