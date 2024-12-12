@@ -38,7 +38,9 @@ $ CREATE EXTENSION postgis;
 # 验证 PostGIS安装成功
 SELECT postgis_full_version();
 ```
-+ 创建表，并导入数据。建表语句如下，测试导入数据如下[city_info_data.sql]()
++ 创建表，并导入数据。建表语句如下，测试导入数据如下
+    + [init.sql](https://raw.githubusercontent.com/RussXia/postgis-java/refs/heads/master/src/main/resources/sql/init.sql)
+    + [city_info_data.sql](https://raw.githubusercontent.com/RussXia/postgis-java/refs/heads/master/src/main/resources/sql/city_info_data.sql)
 ```sql
 CREATE TABLE city_info (
     id SERIAL PRIMARY KEY,
